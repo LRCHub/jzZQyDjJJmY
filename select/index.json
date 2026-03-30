@@ -1,0 +1,281 @@
+{
+  "version": 1,
+  "base_track": "Rolling star",
+  "base_artist": "YUI",
+  "createdAt": "2026-03-30T07:38:51.888344Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "LONELY ROLLING STAR",
+      "artist": "椛田早紀",
+      "has_synced": true,
+      "path": "select/01_LONELY_ROLLING_STAR_椛田早紀.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rolling star",
+      "artist": "YUI",
+      "has_synced": true,
+      "path": "select/02_Rolling_star_YUI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rolling star (NATURAL Version)",
+      "artist": "YUI",
+      "has_synced": true,
+      "path": "select/03_Rolling_star_(NATURAL_Version)_YUI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rolling star(NATURAL Version)",
+      "artist": "Yui",
+      "has_synced": true,
+      "path": "select/04_Rolling_star(NATURAL_Version)_Yui.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rolling Star",
+      "artist": "Yui",
+      "has_synced": true,
+      "path": "select/05_Rolling_Star_Yui.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "サヨナラ Rolling Star (Yuri‘s Mixx)",
+      "artist": "micazo",
+      "has_synced": false,
+      "path": "select/06_サヨナラ_Rolling_Star_(Yuri‘s_Mixx)_micazo.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sayonara Rolling Star (Yuri‘s Mixx)",
+      "artist": "micazo",
+      "has_synced": false,
+      "path": "select/07_Sayonara_Rolling_Star_(Yuri‘s_Mixx)_micazo.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rolling Star",
+      "artist": "NANO",
+      "has_synced": true,
+      "path": "select/08_Rolling_Star_NANO.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rolling Star",
+      "artist": "ナノ",
+      "has_synced": true,
+      "path": "select/09_Rolling_Star_ナノ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rolling Star (From \"Bleach\")",
+      "artist": "AmaLee",
+      "has_synced": false,
+      "path": "select/10_Rolling_Star_(From__Bleach_)_AmaLee.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lonely Rolling Star (From \"Katamari Damacy')",
+      "artist": "The 8-Bit Big Band",
+      "has_synced": true,
+      "path": "select/11_Lonely_Rolling_Star_(From__Katamari_Damacy')_The_8-Bit_Big_Band.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rolling Star (from “Bleach”)",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/12_Rolling_Star_(from_“Bleach”)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lonely Rolling Star (Katamari Damacy)",
+      "artist": "The 8-Bit Big Band",
+      "has_synced": true,
+      "path": "select/13_Lonely_Rolling_Star_(Katamari_Damacy)_The_8-Bit_Big_Band.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Rolling star (NATURAL Ver.)",
+      "artist": "YUI",
+      "has_synced": true,
+      "path": "select/14_Rolling_star_(NATURAL_Ver.)_YUI.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Rolling star ~YUI Acoustic Version~",
+      "artist": "YUI",
+      "has_synced": true,
+      "path": "select/15_Rolling_star_~YUI_Acoustic_Version~_YUI.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Rolling Along",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/16_Rolling_Along_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Rolling In The Deep",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/17_Rolling_In_The_Deep_Adele.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Rolling Through The Hood",
+      "artist": "Kelis",
+      "has_synced": false,
+      "path": "select/18_Rolling_Through_The_Hood_Kelis.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Rolling With Heat",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/19_Rolling_With_Heat_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Paying The Cost To Be The Boss (With The Rolling Stones)",
+      "artist": "B.B. King",
+      "has_synced": true,
+      "path": "select/20_Paying_The_Cost_To_Be_The_Boss_(With_The_Rolling_Stones)_B.B._King.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "The Rolling People",
+      "artist": "The Verve",
+      "has_synced": true,
+      "path": "select/21_The_Rolling_People_The_Verve.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Rolling People",
+      "artist": "The Verve",
+      "has_synced": true,
+      "path": "select/22_Rolling_People_The_Verve.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Honky Tonk Women (The Rolling Stones cover) (Bonus track)",
+      "artist": "The Pogues",
+      "has_synced": true,
+      "path": "select/23_Honky_Tonk_Women_(The_Rolling_Stones_cover)_(Bonus_track)_The_Pogues.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Train Kept Rolling On",
+      "artist": "The Pogues",
+      "has_synced": true,
+      "path": "select/24_Train_Kept_Rolling_On_The_Pogues.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Train Kept Rolling On (Bonus track)",
+      "artist": "The Pogues",
+      "has_synced": true,
+      "path": "select/25_Train_Kept_Rolling_On_(Bonus_track)_The_Pogues.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Like A Rolling Stone - Album Mix",
+      "artist": "Eiffel 65",
+      "has_synced": true,
+      "path": "select/26_Like_A_Rolling_Stone_-_Album_Mix_Eiffel_65.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Like A Rolling Stone (Album Mix)",
+      "artist": "Eiffel 65",
+      "has_synced": true,
+      "path": "select/27_Like_A_Rolling_Stone_(Album_Mix)_Eiffel_65.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Like a Rolling Stone (english) - album mix",
+      "artist": "Eiffel 65",
+      "has_synced": true,
+      "path": "select/28_Like_a_Rolling_Stone_(english)_-_album_mix_Eiffel_65.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Like A Rolling Stone (English) (Album Mix)",
+      "artist": "Eiffel 65",
+      "has_synced": true,
+      "path": "select/29_Like_A_Rolling_Stone_(English)_(Album_Mix)_Eiffel_65.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Like a Rolling Stone (english) (album mix)",
+      "artist": "Eiffel 65",
+      "has_synced": false,
+      "path": "select/30_Like_a_Rolling_Stone_(english)_(album_mix)_Eiffel_65.txt"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Rolling Back the Rivers In Time",
+      "artist": "Girls Aloud",
+      "has_synced": true,
+      "path": "select/31_Rolling_Back_the_Rivers_In_Time_Girls_Aloud.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Rolling Back The Rivers",
+      "artist": "Girls Aloud",
+      "has_synced": true,
+      "path": "select/32_Rolling_Back_The_Rivers_Girls_Aloud.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rolling star",
+      "artist": "YUI",
+      "has_synced": false,
+      "path": "select/pl_01_Rolling_star_YUI.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Rolling star",
+      "artist": "YUI",
+      "has_synced": false,
+      "path": "select/localdb_01_Rolling_star_YUI.txt",
+      "repo_name": "0PfAdnafOP8"
+    }
+  ]
+}
